@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mim
-subtitle: Um pouco sobre
+subtitle: Réberth Rodrigues
 ---
 
 ### Minha história
