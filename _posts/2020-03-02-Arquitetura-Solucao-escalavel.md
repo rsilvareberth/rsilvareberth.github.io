@@ -42,7 +42,7 @@ BackEnd
 
 Estou utilizando Java/Spring-boot para o backend. A construção de APIs  utilizando Apache camel torna a produtividade muito alta. Mesmo  utilizando banco de dados relacional.
 
-![Arquitetura](../assets/img/app2.png)
+![Arquitetura](/assets/img/app2.png)
 
 Descrição da arquitetura
 
