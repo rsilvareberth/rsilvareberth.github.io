@@ -3,7 +3,7 @@ layout: post
 title: Arquitetura de Solução escalável
 subtitle: App React Native, Conteiners, Microserviços e Keycloak
 cover-img: /assets/img/app.png
-thumbnail-img: /assets/img/app.png
+thumbnail-img: /assets/img/app-thumb.png
 share-img: /assets/img/app.png
 tags: [reactnative ,springboot ,aws ,kubernetes ,openshift ,opensource ,architectures ,cloudnative ,containers ]
 ---
