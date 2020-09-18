@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mim
+subtitle: Um pouco sobre
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Minha história
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Carreira desenvolvida na área de Tecnologia da Informação, com mais de 9 anos de ampla experiência no desenvolvimento, implantação, manutenção de sistemas, coordenação técnica de equipes e implementação de melhorias no processo de desenvolvimento. 
 
-What else do you need?
+Liderança de times ágeis atuando como Scrum Master e líder técnico.
 
-### My story
+Escritor de código e arquitetura de soluções em smartime.com.br/blog
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sou especialista em iPaaS, SOA e EDI  utilizando diversos tipos de Enterprise Aplication Integration. Dentre eles, IBM Sterling B2B Integration, Red Hat Process Automation Manager e tecnologias de modelagem de processos (BPM). 
+
+Experiência em mapeamento de interface EDI Sterling
+Conhecimento de sistemas Mainframe e UNIX.
+
+Experiência com CI / CD
+Ampla experiência de servidores de aplicativos como o JBoss EAP
+Conhecimento profundo de PL/SQL e tecnologias de banco de dados, por exemplo, Oracle, MySQL e SQL Server.
+
+Participei de grandes projetos com diversos clientes internacionais, tais como FedEx, Procter & Gamble, Zurich Seguros, Apple,  Natura. Definindo arquitetura de solução e desenvolvimento de sistemas com olhar ágil, dinâmico e de valor agregado.
