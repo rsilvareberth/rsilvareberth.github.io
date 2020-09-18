@@ -10,7 +10,7 @@ Carreira desenvolvida na área de Tecnologia da Informação, com mais de 9 anos
 
 Liderança de times ágeis atuando como Scrum Master e líder técnico.
 
-Escritor de código e arquitetura de soluções em smartime.com.br/blog
+Escritor de código e arquitetura de soluções em rsilvareberth.github.io
 
 Sou especialista em iPaaS, SOA e EDI  utilizando diversos tipos de Enterprise Aplication Integration. Dentre eles, IBM Sterling B2B Integration, Red Hat Process Automation Manager e tecnologias de modelagem de processos (BPM). 
 
