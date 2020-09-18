@@ -15,10 +15,10 @@ author: Réberth Rodrigues
 
 navbar-links:
   Sobre Mim: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Meu LinkedIn: "https://www.linkedin.com/in/reberthrodrigues/"
 
 # --- Logo --- #
 
