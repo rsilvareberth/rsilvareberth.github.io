@@ -74,7 +74,7 @@ Rode novamente o comando para confirmar a criação do adaptador
 
 `Get-NetAdapter`
 
-![Adaptador externo Hyper-V](assets/img/ocp1.png)
+![Adaptador externo Hyper-V](/assets/img/ocp1.png)
 
 Configure o minishift para sempre utilizar o switch externo criado, 12GB de memória RAM  e o driver de virtualização Hyper-V:
 
@@ -102,17 +102,17 @@ Para acompanhar logs de inicialização, rode com o parâmetro adicional:
 
 Você deve ver um log inicial semelhante a este:
 
-![Log inicial](assets/img/ocp-log1.png)
+![Log inicial](/assets/img/ocp-log1.png)
 
 E final semelhante a este:
 
-![Log final](assets/img/ocp-log2.png)
+![Log final](/assets/img/ocp-log2.png)
 
 Resultado final no navegador:
 
 Voila!!!!
 
-![Log final](assets/img/ocp-main-page.png)
+![Log final](/assets/img/ocp-main-page.png)
 
 **Troubleshooting**
 
