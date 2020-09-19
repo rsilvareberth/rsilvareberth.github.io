@@ -3,7 +3,7 @@ layout: post
 title: Passo a passo Minishift/Windows10
 subtitle: preparação de ambiente de orquestração de container Openshift
 cover-img: /assets/img/ocp.png
-thumbnail-img: /assets/img/micro-thumb.jpg
+thumbnail-img: /assets/img/ocp-thumb.png
 share-img: /assets/img/ocp.png
 tags: [redhat ,openshift , containers ,microservices , okd, minishift openshift origin  ]
 ---
