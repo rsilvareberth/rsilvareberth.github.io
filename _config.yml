@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Cloud Computing | Architecture | BPM | Integrations | Java
+title: Spring Boot | Cloud Computing | Architecture | BPM | Integrations | Java
 
 # Your name to show in the footer
 author: Réberth Rodrigues
@@ -14,6 +14,7 @@ author: Réberth Rodrigues
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Cursos: "courses"
   Sobre Mim: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -50,7 +51,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: user/wipdev
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
