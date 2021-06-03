@@ -9,14 +9,14 @@
 title: Architecture | Cloud Native | DevOps | Process | Integrations
 
 # Your name to show in the footer
-author: Réberth Rodrigues - wipdev
+author: Réberth Rodrigues
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Courses: "courses"
-  Blog: "/"
-  About: "about"
+  #Cursos: "cursos"
+  Conteúdo: "/"
+  Sobre: "sobre"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
